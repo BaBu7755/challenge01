@@ -2,4 +2,4 @@
 ## Description
 - Made a title
 - Added ALT attibutues
-- Tired to sequential CSSz
+- Tired to sequence CSS
